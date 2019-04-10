@@ -1,3 +1,3 @@
 # lemons
 When God gives you lemons, create a new repository
-<sup>Lemons</sup>
+No! I want lemonade!
